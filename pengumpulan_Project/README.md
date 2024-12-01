@@ -52,3 +52,5 @@ Semakin lengkap dan detail penjelasan pada README.md maka semakin bagus.
 
 Download template:
 [Click Here](https://raw.githubusercontent.com/efzynx/uwc/refs/heads/main/pengumpulan_Project/TEMPLATE.md "download") 
+
+<a id="raw-url" href="https://raw.githubusercontent.com/efzynx/uwc/refs/heads/main/pengumpulan_Project/TEMPLATE.md">Download FILE</a>
