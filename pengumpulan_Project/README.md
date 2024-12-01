@@ -16,7 +16,7 @@
 
 ## Deskripsi Karya
 
-Deskripsi karya dapat menjelaskan tentang manfaat, tujuan, dan pemilihan sub tema yang melandasi dibuatnya karya ini.
+    Deskripsi karya dapat menjelaskan tentang manfaat, tujuan, dan pemilihan sub tema yang melandasi dibuatnya karya ini.
 
 ## Feature project
 
