@@ -3,7 +3,7 @@
 ***
 ***
 
-![App Screenshot-login](https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png)
+<img src="https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png" width="400px">
 
 # JUDUL KARYA
  
