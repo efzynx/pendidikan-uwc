@@ -38,3 +38,7 @@
 ## Note
 
     Berikan catatan tambahan jika diperlukan
+
+***
+
+Semakin lengkap dan detail penjelasan pada README.md maka semakin bagus.
