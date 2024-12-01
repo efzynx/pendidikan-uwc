@@ -1,5 +1,8 @@
 # Readme ditulis dalam markdown (README.md) dengan format sebagai berikut, contoh:
 
+***
+***
+
 # JUDUL KARYA
  
     Tuliskan judul karya yang sesuai dengan project dan tema yang dipilih
@@ -10,8 +13,8 @@
 
 ## Anggota Tim
     
-    Ketua: nama ketua
-    Anggota 1: nama anggota
+- Ketua: nama ketua
+- Anggota 1: nama anggota
 
 
 ## Deskripsi Karya
@@ -39,6 +42,7 @@
 
     Berikan catatan tambahan jika diperlukan
 
+***
 ***
 
 Semakin lengkap dan detail penjelasan pada README.md maka semakin bagus.
