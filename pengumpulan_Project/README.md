@@ -2,8 +2,9 @@
 
 ***
 ***
-
-<img src="https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png" width="400px" style="horizontal-align:middle">
+<p align="center">
+<img src="https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png" width="400px">
+</p>
 
 # JUDUL KARYA
  
