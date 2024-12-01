@@ -1,16 +1,35 @@
-# Readme ditulis dalam markdown (README.md) dengan format sebagai berikut. JUDUL KARYA
+# Readme ditulis dalam markdown (README.md) dengan format sebagai berikut, contoh:
+
+# JUDUL KARYA
+ 
+    Tuliskan judul karya yang sesuai dengan project dan tema yang dipilih
 
 ## Institusi
-
-## Nama institusi
+ 
+    Cantumkan nama institusi 
 
 ## Anggota Tim
+    
+    Ketua: nama ketua
+    Anggota 1: nama anggota
 
-## Ketua: nama ketua
 
- Anggota 1: nama anggota
-
-
-# Deskripsi Karya
+## Deskripsi Karya
 
 Deskripsi karya dapat menjelaskan tentang manfaat, tujuan, dan pemilihan sub tema yang melandasi dibuatnya karya ini.
+
+## Feature project
+
+    Jelaskan fitur yang terdapat pada project atau karya anda
+
+## Tech Stack
+
+    Cantumkan teknologi yang digunakan dan jelaskan apa saja yang anda gunakan
+
+## Instalasi
+
+    Jelaskan cara instalasi project anda, baik secara lokal maupun online
+
+## Note
+
+    Berikan catatan tambahan jika diperlukan
