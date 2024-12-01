@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png" width="400px">
+</p>
+
 # JUDUL KARYA
  
     Tuliskan judul karya yang sesuai dengan project dan tema yang dipilih
@@ -8,8 +12,8 @@
 
 ## Anggota Tim
     
-    Ketua: nama ketua
-    Anggota 1: nama anggota
+- Ketua: nama ketua
+- Anggota 1: nama anggota
 
 
 ## Deskripsi Karya
