@@ -3,6 +3,8 @@
 ***
 ***
 
+![App Screenshot-login](https://i.ibb.co.com/NTXqNPV/maskot-uwc-2025.png)
+
 # JUDUL KARYA
  
     Tuliskan judul karya yang sesuai dengan project dan tema yang dipilih
@@ -46,5 +48,6 @@
 ***
 
 Semakin lengkap dan detail penjelasan pada README.md maka semakin bagus.
+
 Download template:
-[Download Report](https://github.com/efzynx/uwc/blob/main/pengumpulan_Project/TEMPLATE.md "download") 
+[Click Here](https://github.com/efzynx/uwc/blob/main/pengumpulan_Project/TEMPLATE.md "download") 
