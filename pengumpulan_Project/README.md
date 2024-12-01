@@ -46,3 +46,5 @@
 ***
 
 Semakin lengkap dan detail penjelasan pada README.md maka semakin bagus.
+Download template:
+[Download Report](https://github.com/efzynx/uwc/blob/main/pengumpulan_Project/TEMPLATE.md "download") 
